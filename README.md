@@ -4,7 +4,7 @@
 
 :octocat: [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) ([documentation](https://flask-admin.readthedocs.io/en/latest/))
 
-:octocat: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) ([home page](https://www.appsmith.com/)) ([docmentation](https://docs.appsmith.com/))
+:octocat: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) ([home page](https://www.appsmith.com/)) ([documentation](https://docs.appsmith.com/))
 
 💰 [retool.com](https://retool.com/)
 
