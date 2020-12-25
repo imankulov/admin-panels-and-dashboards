@@ -7,6 +7,7 @@
 :octocat: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) ([home page](https://www.appsmith.com/)) ([documentation](https://docs.appsmith.com/))
 
 💰 [retool.com](https://retool.com/)
+💰 [uibakery.io](https://uibakery.io/)
 
 # Console interfaces
 
